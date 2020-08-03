@@ -2,3 +2,9 @@
 <data>
     <latestversion>2</latestversion>
     <url>https://github.com/Fanom2813/android-computer-glossary/blob/master/app/update.json</url>
+    <updates>
+        <update>this</update>
+        <update>this and that</update>
+        <update>these also</update>
+    </updates>
+</data>
