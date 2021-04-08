@@ -1,10 +1,7 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
-<data>
-    <latestversion>1.0.0.1</latestversion>
-    <url>https://raw.githubusercontent.com/Fanom2813/ComputerGlossary/master/computerdictionary.7.0.apk</url>
-    <updates>
-        <update>this</update>
-        <update>this and that</update>
-        <update>these also</update>
-    </updates>
-</data>
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<item>
+  <version>2.0.0.0</version>
+  <url>http://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
+  <changelog>https://vc695.pcloud.com/dpZWnXxzDZqFmi3MZBlmL7ZZbtqAG7Z2ZZMDLZZ7zAzyuXq8NuYsuIS1fO5SHAowJpV/changelog.txt</changelog>
+  <mandatory>false</mandatory>
+</item>
