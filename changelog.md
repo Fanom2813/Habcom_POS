@@ -1,3 +1,25 @@
+### v4.0.1.55-alpha (25/04/2021):
+
+#### Fixes
+
+- search / filtering in some screens
+- data recovery 
+- filtering process sale items
+- dashboard page
+
+#### Updates
+
+- require customer name on debt 
+- set update folder to %username%\My Document\Habcom\Updates
+
+#### Added
+
+- Item Filtering in some pages of the application
+- Dark / Light themes
+- Recover / Restore data
+- Receipts Page
+- password recovery
+
 ### v4.0.0.89-alpha (19/04/2021):
 
 #### Fixes
