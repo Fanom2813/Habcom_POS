@@ -1,3 +1,20 @@
+### v4.0.1.342 -alpha (25/04/2021):
+
+#### Fixes
+
+- display correct line chart of the stock in dashboard 
+
+#### Updates
+
+- statistics page 
+
+#### Added
+
+- profile dialog
+- account disabling
+- separate admin / teller views 
+- implement activation keys 
+
 ### v4.0.1.55-alpha (25/04/2021):
 
 #### Fixes
