@@ -1,3 +1,23 @@
+### v4.0.1.489 -alpha (7/05/2021):
+
+#### Fixes
+
+- customer request screen filtration and insertion
+- error on insertion empty expenditure
+- crash when database file is used by another process 
+- product page
+- process sale page
+
+#### Updates
+
+-  
+
+#### Added
+
+- teller switching 
+- logging out 
+- in memory database when local database is inaccessible 
+
 ### v4.0.1.342 -alpha (25/04/2021):
 
 #### Fixes
