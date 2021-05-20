@@ -1,3 +1,29 @@
+### v4.0.1.599 -alpha (21/5/2021):
+
+#### Fixes
+
+- some fixes on the process sale screen
+- some fixes on the stock screen 
+- dashboard layout 
+- fixes on the product & stock pages
+- debt page, receipt page, customer request page, sale history, statistics page, customer request
+- clear session on logout
+- save app state
+- other improvement
+- category deletion
+
+#### Updates
+
+-  expiration date to be nullable on product
+
+#### Added
+
+- product & category options in settings
+- administrator confirmation dialog 
+- expenditure chart
+- debt clearance
+- show current profit on process sale screen 
+
 ### v4.0.1.520 -alpha (14/05/2021):
 
 #### Fixes
