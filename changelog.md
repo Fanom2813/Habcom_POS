@@ -1,3 +1,33 @@
+### v4.0.1.723 -alpha (25/05/2021):
+
+#### Fixes
+
+- dashboard page, statistics page
+
+#### Updates
+
+-  save & print buttons
+
+#### Added
+
+- 
+
+### v4.0.1.654 -alpha (22/05/2021):
+
+#### Fixes
+
+- product page, expenditure page, teller page , debt page, teller page, settings page
+
+#### Updates
+
+-  added toast after processing sale
+-  ordering product from db
+
+#### Added
+
+- category merging
+- maximum quantity for a product
+
 ### v4.0.1.599 -alpha (21/5/2021):
 
 #### Fixes
