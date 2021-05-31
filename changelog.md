@@ -1,3 +1,17 @@
+### v4.0.1.764 -alpha (31/05/2021):
+
+#### Fixes
+
+- switch user
+
+#### Updates
+
+-  statistics report 
+
+#### Added
+
+- user settings for logging out, switch account
+
 ### v4.0.1.723 -alpha (25/05/2021):
 
 #### Fixes
